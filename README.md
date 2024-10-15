@@ -21,7 +21,7 @@ Besides the two chonometers, some helpful features were added:
 4. The reset button on the lowest part can be **long pressed to reset** both timers (the cont down time will be reset as well, but remain the time specified in settings)
 
 ## Find a bug?
-If you find any issues
+If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a Pull Request with a fix, reference the issue you created.
 
 
 ## Known issues (Work in progress)
