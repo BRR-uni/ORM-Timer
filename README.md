@@ -4,6 +4,9 @@
 This is an Android app that works as two independent tactile timers. It is meant to help in murine behavioral tests such as the Object Recognition Memory assesment. In this example test, the analyst should track the time a mouse has explored (getting its nose close) two objects in a closed area. Usually this test is recorded and can be automated with the use of paid propietary software such as Any-Maze, however, when a lab does not have the resources to pay the licence, manual assesment is prefered. When manually timing the exploration time of two objects, the use of traditional timers (chronometers) can be troublesome. This timers need to be clicked once to start running, and a second time to stop. If the mouse rapidly changes from exploring one object to the other, or when repeatedly getting its nose in and out of the exploration distance, the analyst might mistake the right timer to click or forget to stop a timer which keeps the time running and natually messes up with the true exploration time.
 This app is much easier to use for the analyst since it just requieres to keep pressed one side of the screen to start running the timer. The operation is so intuitive that eliminates the confounding factors that come with traditional chronometer.
 
+![image](https://github.com/user-attachments/assets/2f1655dd-fda5-49bb-b89c-4b38bad67094)
+
+
 ## How to install
 
 To use the app, install the .apk file form the repository
